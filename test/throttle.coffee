@@ -1,8 +1,8 @@
 chai     = require "chai"
-Throttle    = require "../lib/throttle.js"
+Throttle = require "../lib/throttle.js"
 
 throttle = new Throttle( 1000 )
-now = +( new Date() )
+now      = +( new Date() )
 
 describe( "throttle", () ->
     describe( "#connect(1)", () ->
