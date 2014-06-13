@@ -2,7 +2,7 @@
   "name": "madlib-promise-throttle",
   "description": "A generic promise based throttle",
   "main": "lib/throttle.js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "author": {
     "name": "Mark Doeswijk",
     "email": "mdoeswijk@gmail.com",
